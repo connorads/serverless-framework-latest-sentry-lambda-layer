@@ -1,0 +1,17 @@
+{
+  "name": "serverless-framework-latest-sentry-lambda-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "deploy": "serverless deploy",
+    "remove": "serverless deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.7.4",
+    "serverless-latest-layer-version": "^2.1.1"
+  }
+}
