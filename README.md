@@ -1,5 +1,9 @@
 # Serverless Framework + Latest Sentry Lambda Layer
 
+As per [the docs](https://docs.sentry.io/product/integrations/cloud-monitoring/aws-lambda/#serverless-framework), it doesn't work.
+
+![image](https://user-images.githubusercontent.com/10026538/157966215-f0aba259-c1d4-40a8-b46d-e329119416f0.png)
+
 ```sh
 ➜ npm run deploy       
 
